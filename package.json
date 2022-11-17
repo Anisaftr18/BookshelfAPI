@@ -8,7 +8,7 @@
     "lint": "eslint ./"
   },
   "keywords": [],
-  "author": "Anisa Fitrianida",
+  "author": "Anisa Fitrianida LP",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^8.27.0",
